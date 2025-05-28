@@ -1,0 +1,1 @@
+How to store the variables values to the PSCAD Storage arrays and how to read them in the C interface DLL code. This is explained in detail in the Description.docx document. 
